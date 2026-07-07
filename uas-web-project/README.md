@@ -26,6 +26,10 @@ Berikut adalah daftar materi dan fitur yang telah berhasil diimplementasikan:
 * **Delete:** Menghapus tugas dari database.
 * **Responsive Design:** Antarmuka bersih dengan tema *Soft Blue*.
 
+## 📝 Catatan
+
+Pada tahap perencanaan, proyek ini dirancang untuk menggunakan PostgreSQL sebagai database. Namun, selama proses implementasi terdapat kendala pada konfigurasi dan integrasi database di lingkungan pengembangan. Oleh karena itu, implementasi akhir menggunakan MySQL agar seluruh fitur CRUD dapat berjalan dengan baik sesuai kebutuhan aplikasi.
+
 ## 👤 Profil Pembuat
 
 * **Nama:** Ginda Azahra
