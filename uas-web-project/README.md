@@ -9,7 +9,6 @@ Berikut adalah daftar materi dan fitur yang telah berhasil diimplementasikan:
 * [x] **Introduction Node.js** (Server-side runtime setup)
 * [x] **Express.js** (Backend API framework)
 * [x] **HTTP & Middleware** (Request handling & JSON parsing)
-* [x] **Database Connection** (MySQL connection via `mysql2`)
 * [x] **Database & Express Integration** (CRUD operations)
 * [x] **React Starter** (Frontend component architecture)
 * [x] **Component & UseState** (Dynamic UI & State management)
@@ -17,6 +16,7 @@ Berikut adalah daftar materi dan fitur yang telah berhasil diimplementasikan:
 * [x] **Integrating Backend & Frontend** (Axios integration & Proxy)
 * [x] **Routing & Next.js** (Client-side routing)
 * [x] **Routing & React Query** (Server state management & caching)
+* [x] **Database Connection**
 
 ## 🛠 Fitur Aplikasi
 
@@ -25,10 +25,6 @@ Berikut adalah daftar materi dan fitur yang telah berhasil diimplementasikan:
 * **Update:** Mengubah judul tugas dengan fitur edit.
 * **Delete:** Menghapus tugas dari database.
 * **Responsive Design:** Antarmuka bersih dengan tema *Soft Blue*.
-
-## 📝 Catatan
-
-Pada tahap perencanaan, proyek ini dirancang untuk menggunakan PostgreSQL sebagai database. Namun, selama proses implementasi terdapat kendala pada konfigurasi dan integrasi database di lingkungan pengembangan. Oleh karena itu, implementasi akhir menggunakan MySQL agar seluruh fitur CRUD dapat berjalan dengan baik sesuai kebutuhan aplikasi.
 
 ## 👤 Profil Pembuat
 
