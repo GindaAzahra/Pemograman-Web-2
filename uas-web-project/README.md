@@ -1,4 +1,4 @@
-# Proyek UAS Pemrograman Web 2 - Task Hub
+# UAS Pemrograman Web 2
 
 Aplikasi **Task Hub** ini adalah sistem manajemen tugas berbasis web yang dibangun menggunakan *stack* modern untuk memenuhi kebutuhan tugas UAS.
 
